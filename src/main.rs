@@ -1,3 +1,3 @@
 fn main() {
-    // leagues-api::main();
+    api::main();
 }
