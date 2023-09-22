@@ -1,0 +1,1 @@
+https://taharmeijs.medium.com/diesel-rs-postgresql-linking-errors-on-windows-b769586664c1
